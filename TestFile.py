@@ -17,3 +17,8 @@ File
 
 
 :)
+def main():
+  print("Hi")
+  
+def thing(anotherThing):
+  print("Hello")
