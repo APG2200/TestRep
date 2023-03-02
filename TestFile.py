@@ -21,4 +21,4 @@ def main():
   print("Hi")
   
 def thing(anotherThing):
-  print("Hello")
+  print("Hello, this definitely shouldn't be included!")
